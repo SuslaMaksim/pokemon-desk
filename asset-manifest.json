@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pokemon-desk/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/pokemon-desk/static/js/main.2b0f641f.chunk.js",
-    "main.js.map": "/pokemon-desk/static/js/main.2b0f641f.chunk.js.map",
+    "main.js": "/pokemon-desk/static/js/main.94d11487.chunk.js",
+    "main.js.map": "/pokemon-desk/static/js/main.94d11487.chunk.js.map",
     "runtime-main.js": "/pokemon-desk/static/js/runtime-main.6521782b.js",
     "runtime-main.js.map": "/pokemon-desk/static/js/runtime-main.6521782b.js.map",
-    "static/js/2.7f80c2bb.chunk.js": "/pokemon-desk/static/js/2.7f80c2bb.chunk.js",
-    "static/js/2.7f80c2bb.chunk.js.map": "/pokemon-desk/static/js/2.7f80c2bb.chunk.js.map",
+    "static/js/2.de2ff030.chunk.js": "/pokemon-desk/static/js/2.de2ff030.chunk.js",
+    "static/js/2.de2ff030.chunk.js.map": "/pokemon-desk/static/js/2.de2ff030.chunk.js.map",
     "index.html": "/pokemon-desk/index.html",
-    "precache-manifest.933df079a3af9a8a29d873dd35b114bf.js": "/pokemon-desk/precache-manifest.933df079a3af9a8a29d873dd35b114bf.js",
+    "precache-manifest.9caa308b10593526296dc82283e1945c.js": "/pokemon-desk/precache-manifest.9caa308b10593526296dc82283e1945c.js",
     "service-worker.js": "/pokemon-desk/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/pokemon-desk/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7f80c2bb.chunk.js.LICENSE.txt": "/pokemon-desk/static/js/2.7f80c2bb.chunk.js.LICENSE.txt"
+    "static/js/2.de2ff030.chunk.js.LICENSE.txt": "/pokemon-desk/static/js/2.de2ff030.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6521782b.js",
-    "static/js/2.7f80c2bb.chunk.js",
+    "static/js/2.de2ff030.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2b0f641f.chunk.js"
+    "static/js/main.94d11487.chunk.js"
   ]
 }
